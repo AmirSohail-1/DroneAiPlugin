@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DroneAIPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"N:\UE Project\Programming AI\WaveFlux\Intermediate\Build\Win64\WaveFluxEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"N:\UE Project\Programming AI\WaveFlux\Plugins\DroneAIPlugin\Intermediate\Build\Win64\UnrealEditor\Development\DroneAIPlugin\Module.DroneAIPlugin.cpp.obj"
+"N:\UE Project\Programming AI\WaveFlux\Plugins\DroneAIPlugin\Intermediate\Build\Win64\UnrealEditor\Development\DroneAIPlugin\Default.rc2.res"
+/OUT:"N:\UE Project\Programming AI\WaveFlux\Plugins\DroneAIPlugin\Intermediate\Build\Win64\UnrealEditor\Development\DroneAIPlugin\UnrealEditor-DroneAIPlugin.lib"

@@ -1,0 +1,29 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DroneAIPlugin.cpp.obj": [
+			"BTTask_PerformComplexMovement.gen.cpp.obj",
+			"DroneAIController.gen.cpp.obj",
+			"DroneAIPlugin.init.gen.cpp.obj",
+			"DroneBTTaskNode_FindOptimalPosition.gen.cpp.obj",
+			"DroneBTTaskNode_TakeScreenshot.gen.cpp.obj",
+			"DroneCameraWidget.gen.cpp.obj",
+			"DroneEQSContext.gen.cpp.obj",
+			"DroneNPC.gen.cpp.obj",
+			"FlyingDroneComponent.gen.cpp.obj",
+			"HasTargetDecorator.gen.cpp.obj",
+			"TargetSetterComponent.gen.cpp.obj",
+			"BTTask_PerformComplexMovement.cpp.obj",
+			"DroneAIController.cpp.obj",
+			"DroneBTTaskNode_FindOptimalPosition.cpp.obj",
+			"DroneBTTaskNode_TakeScreenshot.cpp.obj",
+			"DroneCameraWidget.cpp.obj",
+			"DroneEQSContext.cpp.obj",
+			"DroneNPC.cpp.obj",
+			"FlyingDroneComponent.cpp.obj",
+			"HasTargetDecorator.cpp.obj",
+			"DroneAIPlugin.cpp.obj",
+			"TargetSetterComponent.cpp.obj"
+		]
+	}
+}
